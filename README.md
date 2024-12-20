@@ -49,3 +49,13 @@ Désormais, ce n’est plus nous mais l’ordinateur qui va proposer une combina
 
 Étape 5
 Proposer une interface graphique pour que l’on puisse voir visuellement les couleurs et jouer à votre jeu de manière plus ludique !
+
+
+première étape : wire frame
+![mastermind_wire_frame](https://github.com/user-attachments/assets/b3f8041e-b323-4d32-a03b-391047a797c0)
+
+deuxième étape : maquette
+![mastermind_maquette](https://github.com/user-attachments/assets/2f15cfaf-08a2-42eb-bc11-48796d301025)
+
+
+troisième étape : début de code par baby steps
